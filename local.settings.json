@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "ad223721-a582-4be2-ad65-d1320c780b57",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=ad223721-a582-4be2-ad65-d1320c780b57;IngestionEndpoint=https://westeurope-5.in.applicationinsights.azure.com/;LiveEndpoint=https://westeurope.livediagnostics.monitor.azure.com/",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=neighborlystoragegroup;AccountKey=2iLgXJbQVqijk+rEOzUS+AE273Fv8XV8GWipaHJeuQgL4/EcES9T2m7lusOxSmrmQoHYc1EXydAk+AStl4TcPA==;EndpointSuffix=core.windows.net",
+    "MyDbConnection": "mongodb://myudacityproject:qT5MhgFYydmPEtQDeP5mPgqum3UTKufwZ8xPyOhT3WB6FGJtfTZ6nfVXXVxBsDYosewTpETqiyEzztDb5BaR3A==@myudacityproject.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@myudacityproject@",
+    "AzureWebJobs.createAdvertisement.Disabled": "0",
+    "AzureWebJobs.deleteAdvertisement.Disabled": "0",
+    "AzureWebJobs.getAdvertisement.Disabled": "0",
+    "AzureWebJobs.getPost.Disabled": "0",
+    "AzureWebJobs.getPosts.Disabled": "0",
+    "AzureWebJobs.updateAdvertisement.Disabled": "0",
+    "AzureWebJobs.getAdvertisements.Disabled": "0"
+  },
+  "ConnectionStrings": {}
+}
